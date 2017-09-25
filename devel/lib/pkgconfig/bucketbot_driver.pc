@@ -1,0 +1,8 @@
+prefix=/home/pi/launchpad_base/devel
+
+Name: bucketbot_driver
+Description: Description of bucketbot_driver
+Version: 0.0.0
+Cflags: -I/home/pi/launchpad_base/devel/include -I/home/pi/launchpad_base/src/bucketbot_driver/include
+Libs: -L/home/pi/launchpad_base/devel/lib 
+Requires: roscpp tf nav_msgs sensor_msgs std_msgs message_runtime

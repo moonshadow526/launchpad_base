@@ -1,0 +1,2 @@
+bucketbot_driver
+-DCATKIN_DEVEL_PREFIX=/home/pi/launchpad_base/devel -DCMAKE_INSTALL_PREFIX=/home/pi/launchpad_base/install -G Unix Makefiles
